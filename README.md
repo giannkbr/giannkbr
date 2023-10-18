@@ -3,4 +3,3 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=vakbarrr alt=vakbarrr /> </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=giannkbr&theme=dark&hide_border=true)](https://git.io/streak-stats)
