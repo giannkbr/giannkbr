@@ -4,9 +4,9 @@ I'm a web developer with a passion for backend development and a focus on PHP. C
 
 ## 💼 Professional Experience
 
-- **Web Developer** at [Your Company] - [Time Period]
-  - Worked on projects using Laravel and CodeIgniter.
-  - Collaborated with cross-functional teams to deliver high-quality software.
+- **Web Developer** at [NOTCH Creative Agency] - [Aug 2022 - Now]
+  - Designing and building the website using HTML,CSS,and PHP Framework,and ensuring that it isresponsive and mobile-friendly
+  - Maintaining Website
 
 ## 🚀 Skills
 
