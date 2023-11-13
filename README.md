@@ -18,7 +18,7 @@ I'm a web developer with a passion for backend development and a focus on PHP. C
 
 ## Some of my Github Stats
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=vakbarrr alt=vakbarrr /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=giannkbr alt=giannkbr /> </p>
 
 ## 📫 Let's Connect!
 
