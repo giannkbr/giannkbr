@@ -14,7 +14,6 @@ I'm a web developer with a passion for backend development and a focus on PHP. C
 - **Frameworks:** Laravel, CodeIgniter
 - **New Technologies:** Go (in progress), Next.js (learning)
 - **Tools:** VSCode, Git, PHPStorm
-- **Interested in:** Docker, MERN stack
 
 ## Some of my Github Stats
 
