@@ -12,7 +12,7 @@ I'm a web developer with a passion for backend development and a focus on PHP. C
 
 - **Languages:** PHP, JavaScript (learning)
 - **Frameworks:** Laravel, CodeIgniter
-- **New Technologies:** Go (in progress), Next.js (learning)
+- **New Technologies:** Next.js (learning)
 - **Tools:** VSCode, Git, PHPStorm
 
 ## Some of my Github Stats
