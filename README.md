@@ -8,21 +8,4 @@ I'm a web developer with a passion for backend development and a focus on PHP. C
   - Designing and building the website using HTML,CSS,and PHP Framework,and ensuring that it isresponsive and mobile-friendly
   - Maintaining Website
 
-## 🚀 Skills
-
-- **Languages:** PHP, JavaScript (learning)
-- **Frameworks:** Laravel, CodeIgniter
-- **New Technologies:** Next.js (learning)
-- **Tools:** VSCode, Git, PHPStorm
-
-## Some of my Github Stats
-
-<p align=left> <img src=https://komarev.com/ghpvc/?username=giannkbr alt=giannkbr /> </p>
-
-## 📫 Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/giannkbr/)
-
-Feel free to explore my repositories and provide feedback! Open to collaborations and learning opportunities.
-
-Happy coding! 🚀
+[![wakatime](https://wakatime.com/badge/user/2af9fbc4-5d3f-4cb7-8624-ecc6dec5841b.svg)](https://wakatime.com/@a0049133-71b7-49d5-bacc-172661fd14f7)
